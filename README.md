@@ -24,7 +24,8 @@
 
 **Prerequisites** : pip install matplotlib numpy networkx
 
-**Usage** 
+**Code Structure** 
+
 Step 1 → Run Segment 1 (Core Components)
 
 Step 2 → Choose and run Segment 2A (Path With Conflicts) OR 2B (Conflict-Free Path)
