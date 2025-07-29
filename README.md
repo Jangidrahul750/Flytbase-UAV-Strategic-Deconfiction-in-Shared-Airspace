@@ -19,7 +19,9 @@
       Enables safer and more efficient drone operations in congested airspace, Modular design for plug-and-play testing of multiple resolution algorithms, Offers detailed visualizations and logs for flight review and debugging
 
 **Core Features**: 3D/2D plotting and animation, Modular input/output segments, Conflict explanation and resolution tagging, Includes A*, RRT, heuristics, and temporal/z-axis offset methods
+
 **Built With** : Python 3.10+, matplotlib (2D/3D visualization), numpy (geometry & interpolation), heapq, networkx (A* path planning), Google Colab / Jupyter
+
 **Prerequisites** : pip install matplotlib numpy networkx
 
 **Usage** 
@@ -37,11 +39,16 @@ Step 3 → Choose a Resolution Strategy from:
 Step 4 → Run Segment 4 for Animation & Conflict Visualization
 
 **Conflict Types & Resolution** 
-    Conflict Types : Spatial / Temporal / Spatio-Temporal Conflicts, Path Interference, Takeoff/Landing Conflicts, NFZ Violation, Infrastructure & Obstacle Collision
-    Resolution Methods : Temporal Shifting (Delay/Advance), Altitude Diversion (Z-Axis Offset), Path Offset (XY Plane), A* Path Replanning, RRT Random Sampling, Maxima/Minima Heuristic Detouring, Priority-Based Sorting, Predefined Safe Corridors
+
+Conflict Types : Spatial / Temporal / Spatio-Temporal Conflicts, Path Interference, Takeoff/Landing Conflicts, NFZ Violation, Infrastructure & Obstacle Collision
+
+Resolution Methods : Temporal Shifting (Delay/Advance), Altitude Diversion (Z-Axis Offset), Path Offset (XY Plane), A* Path Replanning, RRT Random Sampling, Maxima/Minima Heuristic Detouring, Priority-Based Sorting, Predefined Safe Corridors
 
 **Contact** : 
-    jangidrahul@gmail.com, 
-    https://www.linkedin.com/in/rahul-jangid-909872126/
-    https://colab.research.google.com/drive/1NMvANJG_oigWAcmvUQp8gQU62_WsxRiF?usp=sharing
+
+jangidrahul@gmail.com
+    
+https://www.linkedin.com/in/rahul-jangid-909872126/
+    
+https://colab.research.google.com/drive/1NMvANJG_oigWAcmvUQp8gQU62_WsxRiF?usp=sharing
     
