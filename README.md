@@ -1,16 +1,4 @@
 # Flytbase-UAV-Strategic-Deconfiction-in-Shared-Airspace
-**Table of Contents**
-    About The Project
-    Built With
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Conflict Types & Resolution
-    Roadmap
-    Contributing
-    License
-    Contact
 
 **About The Project :**
 UAV Strategic Deconfliction in Shared Airspace simulates a multi-drone airspace environment, identifies flight conflicts (spatial, temporal, NFZ, infrastructure), and applies smart AI-based conflict resolution strategies.
