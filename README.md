@@ -23,15 +23,15 @@
 **Prerequisites** : pip install matplotlib numpy networkx
 
 **Usage** 
-    Step 1 → Run Segment 1 (Core Components)
-    Step 2 → Choose and run Segment 2A (Path With Conflicts) OR 2B (Conflict-Free Path)
-    Step 3 → Choose a Resolution Strategy from:
-         - Segment 3A: Temporal & Z-axis Shift
-         - Segment 3B: Heuristic Path Bypass
-         - Segment 3C: RRT-based Replanning
-         - Segment 3D: A* Spatio-Temporal Path Planning
-         - Segment 3E: Priority-Based Reordering
-    Step 4 → Run Segment 4 for Animation & Conflict Visualization
+Step 1 → Run Segment 1 (Core Components)
+Step 2 → Choose and run Segment 2A (Path With Conflicts) OR 2B (Conflict-Free Path)
+Step 3 → Choose a Resolution Strategy from:
+- Segment 3A: Temporal & Z-axis Shift
+- Segment 3B: Heuristic Path Bypass
+- Segment 3C: RRT-based Replanning
+- Segment 3D: A* Spatio-Temporal Path Planning
+- Segment 3E: Priority-Based Reordering
+Step 4 → Run Segment 4 for Animation & Conflict Visualization
 
 **Conflict Types & Resolution** 
     Conflict Types : Spatial / Temporal / Spatio-Temporal Conflicts, Path Interference, Takeoff/Landing Conflicts, NFZ Violation, Infrastructure & Obstacle Collision
