@@ -12,19 +12,19 @@
     License
     Contact
 
-**About The Project**
-      UAV Strategic Deconfliction in Shared Airspace simulates a multi-drone airspace environment, identifies flight conflicts (spatial, temporal, NFZ, infrastructure), and applies smart AI-based conflict resolution strategies.
+**About The Project :**
+UAV Strategic Deconfliction in Shared Airspace simulates a multi-drone airspace environment, identifies flight conflicts (spatial, temporal, NFZ, infrastructure), and applies smart AI-based conflict resolution strategies.
 
-**Why This Project?**
-      Enables safer and more efficient drone operations in congested airspace, Modular design for plug-and-play testing of multiple resolution algorithms, Offers detailed visualizations and logs for flight review and debugging
+**Why This Project? :**
+Enables safer and more efficient drone operations in congested airspace, Modular design for plug-and-play testing of multiple resolution algorithms, Offers detailed visualizations and logs for flight review and debugging
 
-**Core Features**: 3D/2D plotting and animation, Modular input/output segments, Conflict explanation and resolution tagging, Includes A*, RRT, heuristics, and temporal/z-axis offset methods
+**Core Features :** 3D/2D plotting and animation, Modular input/output segments, Conflict explanation and resolution tagging, Includes A*, RRT, heuristics, and temporal/z-axis offset methods
 
-**Built With** : Python 3.10+, matplotlib (2D/3D visualization), numpy (geometry & interpolation), heapq, networkx (A* path planning), Google Colab / Jupyter
+**Built With :**  Python 3.10+, matplotlib (2D/3D visualization), numpy (geometry & interpolation), heapq, networkx (A* path planning), Google Colab / Jupyter
 
-**Prerequisites** : pip install matplotlib numpy networkx
+**Prerequisites :**  pip install matplotlib numpy networkx
 
-**Code Structure** 
+**Code Structure :** 
 
 Step 1 → Run Segment 1 (Core Components)
 
@@ -39,7 +39,7 @@ Step 3 → Choose a Resolution Strategy from:
 
 Step 4 → Run Segment 4 for Animation & Conflict Visualization
 
-**Conflict Types & Resolution** 
+**Conflict Types & Resolution :** 
 
 Conflict Types : Spatial / Temporal / Spatio-Temporal Conflicts, Path Interference, Takeoff/Landing Conflicts, NFZ Violation, Infrastructure & Obstacle Collision
 
